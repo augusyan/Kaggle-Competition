@@ -40,4 +40,4 @@ python3 main.py --model 'resnet34' --attribute 'collar_design_labels' --epochs 1
 Every epoch trained model will be saved in the folder `save/[attribute]/[model]`.
 
 ## License
-The code is licensed with the [MIT](LICENSE) license.
+The code is licensed with the [Apache](LICENSE) license.
